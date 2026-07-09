@@ -2,8 +2,7 @@
 
 - 🌱 Currently learning **C Programming**
 - 📚 Next: Data Structures & Algorithms
-- 💻 Interested in Software Engineering, AI, and Open Source
-- 🎯 Goal: Become a skilled full-stack software engineer
+
 
 ## Tech Stack
 ![C](https://skillicons.dev/icons?i=c)
