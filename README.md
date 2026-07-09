@@ -1,16 +1,24 @@
-## Hi there 👋
+# Yo 
 
-<!--
-**samin-yessir/samin-yessir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **C Programming**
+- 📚 Next: Data Structures & Algorithms
+- 💻 Interested in Software Engineering, AI, and Open Source
+- 🎯 Goal: Become a skilled full-stack software engineer
 
-Here are some ideas to get you started:
+## Tech Stack
+![C](https://skillicons.dev/icons?i=c)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+```yaml
+Learning:
+  - C Programming
+  - Git & GitHub
+  - Problem Solving
+Next:
+  - Data Structures
+  - Algorithms
+  - C++
